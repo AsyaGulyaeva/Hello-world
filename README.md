@@ -1,2 +1,2 @@
 # Hello-worldHi
-my name is Nastya? I an a studetn
+my name is Nastya. I am a student
